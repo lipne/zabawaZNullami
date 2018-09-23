@@ -1,6 +1,0 @@
-C:\Users\Boniec\Documents\Visual Studio 2017\lipa\zabawaZNullami\zabawaZNullami\bin\Debug\zabawaZNullami.exe.config
-C:\Users\Boniec\Documents\Visual Studio 2017\lipa\zabawaZNullami\zabawaZNullami\bin\Debug\zabawaZNullami.exe
-C:\Users\Boniec\Documents\Visual Studio 2017\lipa\zabawaZNullami\zabawaZNullami\bin\Debug\zabawaZNullami.pdb
-C:\Users\Boniec\Documents\Visual Studio 2017\lipa\zabawaZNullami\zabawaZNullami\obj\Debug\zabawaZNullami.csproj.CoreCompileInputs.cache
-C:\Users\Boniec\Documents\Visual Studio 2017\lipa\zabawaZNullami\zabawaZNullami\obj\Debug\zabawaZNullami.exe
-C:\Users\Boniec\Documents\Visual Studio 2017\lipa\zabawaZNullami\zabawaZNullami\obj\Debug\zabawaZNullami.pdb
